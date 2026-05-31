@@ -9,6 +9,7 @@ This is a practice repository where I'm learning how to use GitHub.
 - Making commits
 - Working with branches
 - Opening pull requests
+- How to make changes in a file
 
 ## How to Use
 Clone this repository and explore the files.
